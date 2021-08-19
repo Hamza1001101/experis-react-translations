@@ -1,0 +1,26 @@
+*,
+html,
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  letter-spacing: 1.3px;
+}
+
+a {
+  text-decoration: none;
+  color: #333;
+}
+.App {
+  background-color: #f5dd90;
+}
+h1,
+h2,
+h3 {
+  font-family: "Love Ya Like A Sister", cursive;
+}
+button {
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
